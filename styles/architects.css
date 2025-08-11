@@ -32,6 +32,10 @@ color: #727272;
   border-radius: 8px;
   border: none;
 }
+main{
+  max-width: 1440px;
+  margin: 0 auto;
+}
 /* Header Styles */
 
 
